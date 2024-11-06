@@ -1,6 +1,5 @@
 # SQL Queries 
-## `SELECT` Query in SQL
-The SELECT statement is used to retrieve data from a database. It's one of the most commonly used SQL commands.
+## SELECT in SQL
 ### Basic Syntax
 ```bash
     SELECT column1, column2
@@ -36,3 +35,10 @@ To order the results, use the **`ORDER BY`** clause.
     ORDER BY last_name ASC;
 ```
 This retrieves the **`first_name`** and **`last_name`** columns and sorts the results by **last_name** in **Ascending Order**.
+## Alias in SQL
+### Basic Syntax
+```bash
+    SELECT column_name AS Name 
+    FROM table_name;
+```
+**`column_name`** is temporarily renamed as "**Name**" in the result set.
