@@ -96,3 +96,8 @@ In SQL, data types define the type of data that can be stored in a column of a t
     - **Example :** **`status ENUM('active', 'inactive', 'suspended')`**
 - **JSON :** Stores JSON formatted data for structured but flexible storage.
     - **Example :** **`preferences JSON`**
+## Scema
+A schema is a logical container or blueprint that defines the structure of a database. It organizes database objects like tables, views, indexes & relationships in a way that makes it easier to manage and understand the data.
+<div align="center">
+    <img src="Diagram" width=30%>
+</div>
