@@ -48,3 +48,12 @@ When we use **`DISTINCT`** SQL eliminates duplicate rows based on the selected c
     FROM table_name;
 ```
 **`column_name`** is temporarily renamed as "**Name**" in the result set.
+## View in SQL
+```bash
+    CREATE VIEW view_name AS
+    SELECT column1, column2, ...
+    FROM table_name;
+```
+- **`view_name`:** The name of the view you want to create.
+- **`SELECT column1, column2, ...`:** The columns to be selected.
+- **`FROM table_name`:** The source table.
