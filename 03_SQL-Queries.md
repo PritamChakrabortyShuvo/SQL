@@ -35,6 +35,12 @@ To order the results, use the **`ORDER BY`** clause.
     ORDER BY last_name ASC;
 ```
 This retrieves the **`first_name`** and **`last_name`** columns and sorts the results by **last_name** in **Ascending Order**.
+### Select Distinct Records
+When we use **`DISTINCT`** SQL eliminates duplicate rows based on the selected columns.
+```bash
+    SELECT DISTINCT column1, column2, ...
+    FROM table_name;
+```
 ## Alias in SQL
 ### Basic Syntax
 ```bash
