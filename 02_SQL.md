@@ -10,7 +10,7 @@ With **SQL**, we can :
 
 **SQL** is **widely used in relational database systems** like **MySQL**, **PostgreSQL**, **Oracle** & **SQL Server**. Making it essential for working with structured data in relational databases.
 ## Tables in SQL
-In SQL, a table is where data is stored in a structured format. It's made up of rows and columns and forms the fundamental unit of storage in a relational database.
+In SQL, **a table is where data is stored** in a **structured format**. It's made up of **rows** and **columns** and **forms the fundamental unit** of **storage in a relational database**.
 ## Key Components of a Table
 Table names should 
 - Be lowercase.
