@@ -1,5 +1,5 @@
 # Introduction to Database
-A database is an organized collection of data stored and managed so that it can be easily accessed, modified & retrieved when needed. Databases store various types of data—from customer details in a business to product inventories in a store. We can add new data, update existing information, delete unwanted records & search for specific details using queries. They come in two main types:
+A **database** is an **organized collection of data stored** & **managed** so that it can be easily **accessed**, **modified** & **retrieved** when needed. Databases store various types of data—from customer details in a business to product inventories in a store. We can add new data, update existing information, delete unwanted records & search for specific details using queries. They come in two main types:
 1. **SQL Databases :** These use structured tables to organize data, like a spreadsheet with rows and columns (e.g., MySQL, PostgreSQL).
 2. **NoSQL Databases :** These use flexible data models, like documents or graphs, which can be more adaptable for unstructured data (e.g., MongoDB, Cassandra).
 <div align="center">
