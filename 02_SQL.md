@@ -21,16 +21,16 @@ Table names should
 </div>
 
 ### Columns
-A field is a column that holds one piece of information about all records.
-- Tables columns are refered as Fields.
+A **Field** is a **column** that holds **one piece** of **information** about **all records**.
+- **Tables columns** are refered as **Fields**.
 - Each column holds a specific type of data (e.g., integers, strings, dates).
-- Each column has a name and a data type (e.g., INT, VARCHAR, DATE).
+- Each column has a **name** & a **data type** (e.g., INT, VARCHAR, DATE).
 - Columns are set at database creation.
 - Field names should :
-    - Be lowercase.
-    - Have no spaces.
-    - Be singular.
-    - Be different from other field names.
+    - **Be lowercase**.
+    - **Have no spaces**.
+    - **Be singular**.
+    - Be **different** from **other field names**.
     - Be different from the table name.
 ### Rows
 A record is a row that holds data on an individual observation.
