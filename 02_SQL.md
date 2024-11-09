@@ -33,10 +33,10 @@ A **Field** is a **column** that holds **one piece** of **information** about **
     - Be **different** from **other field names**.
     - Be different from the table name.
 ### Rows
-A record is a row that holds data on an individual observation.
-- Table rows are referred as records.
-- Each row represents a single record in the table.
-- There is no limit to the number of records.
+A **Record** is a **row** that **holds data** on an **individual observation**.
+- **Table rows** are referred as **records**.
+- Each row represents a **single record** in the table.
+- There is **no limit** to the number of records.
 ### Primary Key
 Unique identifiers are used to identify records in a table. They are unique and often numbers.
 - A unique identifier for each row, ensuring that no two rows have the same value for this column.
