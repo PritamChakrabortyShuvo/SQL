@@ -45,13 +45,13 @@ A **Record** is a **row** that **holds data** on an **individual observation**.
 - A **column in one table** that refers to the **primary key of another table** establishing a relationship between the two.
 - **Example :** A "department_id" in the "employees" table might be a foreign key referring to the "id" in the "departments" table.
 ### Constraints
-Constraints are rules applied to table columns to enforce data integrity. 
+**Constraints** are **rules applied** to **table columns** to enforce data integrity. 
 - **Example :** NOT NULL, UNIQUE, CHECK, etc.
 ## SQL Data Types
-In SQL, data types define the type of data that can be stored in a column of a table. Each column must be assigned a data type when the table is created & it determines the kind of values the column can store.
+In SQL, data types **define the type of data that can be stored in a column of a table**. Each **column must be assigned a data type** when the table is **created** & it determines the **kind of values the column can store**.
 ## Common SQL Data Types
 ### Numeric Types
-- **INT :** Used to store integers (whole numbers).
+- **INT :** Used to **store integers** (whole numbers).
     - **Example :** **`age INT`**
 - **DECIMAL** or **NUMERIC :** Used to store exact numeric values with a specified precision and scale.
     - **Example :** **`price DECIMAL(10, 2)`** (10 total digits, 2 digits after the decimal point).
