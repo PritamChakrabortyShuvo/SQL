@@ -38,11 +38,11 @@ A **Record** is a **row** that **holds data** on an **individual observation**.
 - Each row represents a **single record** in the table.
 - There is **no limit** to the number of records.
 ### Primary Key
-Unique identifiers are used to identify records in a table. They are unique and often numbers.
-- A unique identifier for each row, ensuring that no two rows have the same value for this column.
+**Unique identifiers** are used to **identify records** in a table. They are **unique** and often **numbers**.
+- A **unique identifier** for each **row** ensuring that **no two rows have the same value** for this column.
 - **Example :** An "id" column with unique values for each row.
 ### Foreign Key
-- A column in one table that refers to the primary key of another table, establishing a relationship between the two.
+- A **column in one table** that refers to the **primary key of another table** establishing a relationship between the two.
 - **Example :** A "department_id" in the "employees" table might be a foreign key referring to the "id" in the "departments" table.
 ### Constraints
 Constraints are rules applied to table columns to enforce data integrity. 
