@@ -105,11 +105,11 @@ A schema is a logical container or blueprint that defines the structure of a dat
 ## Storage
 **Database Storage** refers to **how data is physically stored** and **managed** in a database. It involves **organizing data in structures** like **tables**, **data files** & **pages**, **stored on physical devices** such as **hard drives** or **SSDs**. Key elements include tablespaces for **grouping data**, **indexes for fast retrieval** & **data compression** or **encryption** for **optimization** and **security**. Databases also use **replication for high availability** and **backups** for **data protection**. **Efficient storage management** ensures **data integrity**, **performance** & **scalability**.
 ## SQL Queries
-SQL Queries are commands used to interact with a database. They allow us to retrieve, insert, update, or delete data from a database. 
+**SQL Queries** are **commands** used to **interact with a database**. They allow us to **retrieve, insert, update** or **delete data** from a **database**. 
 ### SELECT 
-The SELECT statement is used to retrieve data from a database. It's one of the most commonly used SQL commands.
+The **`SELECT`** **statement** is used to **retrieve data from a database**. It's one of the most commonly used SQL commands.
 ### Aliasing in SQL
-Aliasing in SQL is used to give a table or column a temporary name (alias) to make queries easier to read or to simplify complex queries. Aliases are especially useful when working with long or complex table and column names. There are two types of aliasing in SQL:
+**Aliasing in SQL** is used to give a **table or column a temporary name** (alias) **to make queries easier to read** or **to simplify complex queries**. Aliases are especially useful when working with long or complex table and column names. There are **two types** of **aliasing** in SQL:
 1. **Column Alias :** Assigns a temporary name to a column in the result set. A column alias gives a column a temporary name. It’s useful when you want the result of a column expression (like calculations) to be more readable.
 2. **Table Alias :** Assigns a temporary name to a table, often used to make joins and queries more concise.A table alias assigns a temporary name to a table. This is particularly helpful when joining multiple tables, as it makes the query easier to read and write.
 ### View in SQL
