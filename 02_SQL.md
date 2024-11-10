@@ -110,9 +110,9 @@ A schema is a logical container or blueprint that defines the structure of a dat
 The **`SELECT`** **statement** is used to **retrieve data from a database**. It's one of the most commonly used SQL commands.
 ### Aliasing in SQL
 **Aliasing in SQL** is used to give a **table or column a temporary name** (alias) **to make queries easier to read** or **to simplify complex queries**. Aliases are especially useful when working with long or complex table and column names. There are **two types** of **aliasing** in SQL:
-1. **Column Alias :** Assigns a temporary name to a column in the result set. A column alias gives a column a temporary name. It’s useful when you want the result of a column expression (like calculations) to be more readable.
-2. **Table Alias :** Assigns a temporary name to a table, often used to make joins and queries more concise.A table alias assigns a temporary name to a table. This is particularly helpful when joining multiple tables, as it makes the query easier to read and write.
+1. **Column Alias :** **Assigns a temporary name to a column** in the **result set**. A column alias **gives a column a temporary name**. It’s useful when you want the result of a column expression (like calculations) to be more readable.
+2. **Table Alias :** **Assigns a temporary name to a table**, often used to make **joins** and **queries** more concise. A table **alias assigns a temporary name** to a table. This is particularly helpful when joining multiple tables, as it makes the query easier to read and write.
 ### View in SQL
-A view is a virtual table in a database that is based on the result of a SQL query. It doesn't store data itself but rather stores the SQL query used to retrieve data from one or more tables. Views are often used to simplify complex queries or to provide an abstraction layer for security purposes.
-For More visir [SQL Queries](https://github.com/PritamChakrabortyShuvo/SQL/blob/main/00_SQL-Queries.md)
+A **view is a virtual table** in a **database that is based on the result of a SQL query**. It doesn't **store data itself but rather stores the SQL query** used to **retrieve data from one or more tables**. Views are often used to **simplify complex queries or to provide an abstraction layer for security purposes**.
+For More visir [**SQL Queries**](https://github.com/PritamChakrabortyShuvo/SQL/blob/main/00_SQL-Queries.md)
 
