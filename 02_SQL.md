@@ -53,9 +53,9 @@ In SQL, data types **define the type of data that can be stored in a column of a
 ### Numeric Types
 - **INT :** Used to **store integers** (whole numbers).
     - **Example :** **`age INT`**
-- **DECIMAL** or **NUMERIC :** Used to store exact numeric values with a specified precision and scale.
+- **DECIMAL** or **NUMERIC :** Used to **store exact numeric values** with a **specified precision** and **scale**.
     - **Example :** **`price DECIMAL(10, 2)`** (10 total digits, 2 digits after the decimal point).
-- **FLOAT / REAL :** Used for approximate numeric values, typically with floating-point precision.
+- **FLOAT / REAL :** Used for **approximate numeric values** typically with **floating-point precision**.
     - **Example :** **`height FLOAT`**
 <div align="center">
     <img src="Diagram" width=30%>
@@ -103,8 +103,7 @@ A schema is a logical container or blueprint that defines the structure of a dat
 </div>
 
 ## Storage
-Database Storage refers to how data is physically stored and managed in a database. It involves organizing data in structures like tables, data files & pages, stored on physical devices such as hard drives or SSDs. Key elements include tablespaces for grouping data, indexes for fast retrieval & data compression or encryption for optimization and security. Databases also use replication for high availability and backups for data protection. Efficient storage management ensures data integrity, performance & scalability.
-
+**Database Storage** refers to **how data is physically stored** and **managed** in a database. It involves **organizing data in structures** like **tables**, **data files** & **pages**, **stored on physical devices** such as **hard drives** or **SSDs**. Key elements include tablespaces for **grouping data**, **indexes for fast retrieval** & **data compression** or **encryption** for **optimization** and **security**. Databases also use **replication for high availability** and **backups** for **data protection**. **Efficient storage management** ensures **data integrity**, **performance** & **scalability**.
 ## SQL Queries
 SQL Queries are commands used to interact with a database. They allow us to retrieve, insert, update, or delete data from a database. 
 ### SELECT 
