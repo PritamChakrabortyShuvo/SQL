@@ -8,8 +8,8 @@ A **database** is an **organized collection of data stored** & **managed** so th
 
 ## Relational Database 
 A **Relational Database is a type of database**. While a **database is a general term for any organized collection of data**, a relational database specifically uses a **structured format**, **organizing data into tables with rows and columns**. This **structure is based on the relational model**, which allows data in different tables to be linked by relationships, making it ideal for managing data with well-defined connections. In short:
-- **Database :** A general data storage system.
-- **Relational Database :** A type of database that uses tables and relationships to structure and link data.
+- **Database :** A **general data storage system**.
+- **Relational Database :** A **type of database** that uses **tables and relationships** to structure and **link data**.
 <div align="center">
     <img src="Relational-Database-Diagram" width=30%>
 </div>
