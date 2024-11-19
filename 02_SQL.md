@@ -37,14 +37,18 @@ A **Field** is a **Column** that holds **one piece** of **information** about **
     - Be **Different** from **Other Field Names**.
     - Be **Different** from the **Table Name**.
 <div align="center">
-    <img src="Diagrams/Field-Manner.png" width=70%>
+    <img src="Diagrams/Field-Manner.png" width=80%>
 </div>
     
 ### Rows
 A **Record** is a **row** that **holds data** on an **individual observation**.
-- **Table rows** are referred as **records**.
-- Each row represents a **single record** in the table.
-- There is **no limit** to the number of records.
+<div align="center">
+    <img src="Diagrams/Record.png" width=80%>
+</div>
+
+- **Table Rows** are referred as **Records**.
+- Each row represents a **Single Record** in the table.
+- There is **No Limit** to the number of records.
 ### Primary Key
 **Unique identifiers** are used to **identify records** in a table. They are **unique** and often **numbers**.
 - A **unique identifier** for each **row** ensuring that **no two rows have the same value** for this column.
