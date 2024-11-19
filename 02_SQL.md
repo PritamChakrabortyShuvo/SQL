@@ -23,7 +23,7 @@ Table names should
 ### Columns
 A **Field** is a **Column** that holds **one piece** of **information** about **all records**.
 <div align="center">
-    <img src="Diagrams/Field.png" width=80%>
+    <img src="Diagrams/Field.png" width=100%>
 </div>
 
 - **Tables columns** are refered as **Fields**.
@@ -37,13 +37,13 @@ A **Field** is a **Column** that holds **one piece** of **information** about **
     - Be **Different** from **Other Field Names**.
     - Be **Different** from the **Table Name**.
 <div align="center">
-    <img src="Diagrams/Field-Manner.png" width=80%>
+    <img src="Diagrams/Field-Manner.png" width=100%>
 </div>
     
 ### Rows
 A **Record** is a **row** that **holds data** on an **individual observation**.
 <div align="center">
-    <img src="Diagrams/Record.png" width=80%>
+    <img src="Diagrams/Record.png" width=100%>
 </div>
 
 - **Table Rows** are referred as **Records**.
