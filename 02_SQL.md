@@ -17,7 +17,7 @@ Table names should
 - Have no spaces—use underscores instead.
 - Refer to a collective group or be plural.
 <div align="center">
-    <img src="Diagram" width=30%>
+    <img src="Diagrams/Good-Table-Manner.png" width=70%>
 </div>
 
 ### Columns
