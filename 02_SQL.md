@@ -13,25 +13,33 @@ With **SQL**, we can :
 In SQL, **a table is where data is stored** in a **structured format**. It's made up of **rows** and **columns** and **forms the fundamental unit** of **storage in a relational database**.
 ## Key Components of a Table
 Table names should 
-- Be **lowercase**.
-- Have **no spaces**. Use **underscores (`_`)** instead.
+- Be **Lowercase**.
+- Have **No Spaces**. Use **Underscores (`_`)** instead.
 - Refer to a **Collective Group** or be **Plural**.
 <div align="center">
     <img src="Diagrams/Good-Table-Manner.png" width=70%>
 </div>
 
 ### Columns
-A **Field** is a **column** that holds **one piece** of **information** about **all records**.
+A **Field** is a **Column** that holds **one piece** of **information** about **all records**.
+<div align="center">
+    <img src="Diagrams/Field.png" width=70%>
+</div>
+
 - **Tables columns** are refered as **Fields**.
 - Each column holds a specific type of data (e.g., integers, strings, dates).
 - Each column has a **name** & a **data type** (e.g., INT, VARCHAR, DATE).
 - Columns are set at database creation.
 - Field names should :
-    - **Be lowercase**.
-    - **Have no spaces**.
-    - **Be singular**.
-    - Be **different** from **other field names**.
-    - Be different from the table name.
+    - Be **Lowercase**.
+    - Have **No Spaces**.
+    - **Be Singular**.
+    - Be **Different** from **Other Field Names**.
+    - Be **Different** from the **Table Name**.
+<div align="center">
+    <img src="Diagrams/Field-Manner.png" width=70%>
+</div>
+    
 ### Rows
 A **Record** is a **row** that **holds data** on an **individual observation**.
 - **Table rows** are referred as **records**.
