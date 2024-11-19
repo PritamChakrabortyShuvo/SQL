@@ -13,9 +13,9 @@ With **SQL**, we can :
 In SQL, **a table is where data is stored** in a **structured format**. It's made up of **rows** and **columns** and **forms the fundamental unit** of **storage in a relational database**.
 ## Key Components of a Table
 Table names should 
-- Be lowercase.
-- Have no spaces—use underscores instead.
-- Refer to a collective group or be plural.
+- Be **lowercase**.
+- Have **no spaces**. Use **underscores (`_`)** instead.
+- Refer to a **Collective Group** or be **Plural**.
 <div align="center">
     <img src="Diagrams/Good-Table-Manner.png" width=70%>
 </div>
