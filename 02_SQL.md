@@ -53,6 +53,10 @@ A **Record** is a **row** that **holds data** on an **individual observation**.
 **Unique identifiers** are used to **identify records** in a table. They are **unique** and often **numbers**.
 - A **unique identifier** for each **row** ensuring that **no two rows have the same value** for this column.
 - **Example :** An "id" column with unique values for each row.
+<div align="center">
+    <img src="Diagrams/Primary-Key.png" width=100%>
+</div>
+
 ### Foreign Key
 - A **column in one table** that refers to the **primary key of another table** establishing a relationship between the two.
 - **Example :** A "department_id" in the "employees" table might be a foreign key referring to the "id" in the "departments" table.
