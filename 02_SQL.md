@@ -41,7 +41,7 @@ A **Field** is a **Column** that holds **one piece** of **information** about **
 </div>
     
 ### Rows
-A **Record** is a **row** that **holds data** on an **individual observation**.
+A **Record** is a **Row** that **holds Data** on an **Individual Observation**.
 <div align="center">
     <img src="Diagrams/Record.png" width=100%>
 </div>
@@ -50,8 +50,8 @@ A **Record** is a **row** that **holds data** on an **individual observation**.
 - Each row represents a **Single Record** in the table.
 - There is **No Limit** to the number of records.
 ### Primary Key
-**Unique identifiers** are used to **identify records** in a table. They are **unique** and often **numbers**.
-- A **unique identifier** for each **row** ensuring that **no two rows have the same value** for this column.
+**Unique identifiers** are used to **Identify Records** in a table. They are **Unique** and often **Numbers**.
+- A **Unique Identifier** for each **Row** ensuring that **no two rows have the same value** for this column.
 <div align="center">
     <img src="Diagrams/Primary-Key.png" width=100%>
 </div>
