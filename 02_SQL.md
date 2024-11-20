@@ -50,20 +50,20 @@ A **Record** is a **Row** that **holds Data** on an **Individual Observation**.
 - Each row represents a **Single Record** in the table.
 - There is **No Limit** to the number of records.
 ### Primary Key
-**Unique identifiers** are used to **Identify Records** in a table. They are **Unique** and often **Numbers**.
+**Unique Identifiers** are used to **Identify Records** in a table. They are **Unique** and often **Numbers**.
 - A **Unique Identifier** for each **Row** ensuring that **no two rows have the same value** for this column.
 <div align="center">
     <img src="Diagrams/Primary-Key.png" width=100%>
 </div>
 
-- **Example :** An "card_num" column with unique values for each row.
+- **Example :** An **"`card_num`"** column with **unique values** for each row.
 ### Foreign Key
-A **column in one table** that refers to the **primary key of another table** establishing a relationship between the two.
+A **Column in One Table** that refers to the **Primary Key** of **Another Table** establishing a relationship between the two.
 <div align="center">
     <img src="Diagrams/Foreign-Key.png" width=100%>
 </div>
 
-- **Example :** A "card_num" in the "checkouts" table might be a foreign key referring to the "card_num" in the "patrons" table.
+- **Example :** A **"`card_num`"** in the **"`checkouts`"** table might be a **foreign key** referring to the **"`card_num`"** in the **"`patrons`"** table.
 ### Constraints
 **Constraints** are **rules applied** to **table columns** to enforce data integrity. 
 - **Example :** NOT NULL, UNIQUE, CHECK, etc.
