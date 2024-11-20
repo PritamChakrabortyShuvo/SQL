@@ -52,14 +52,18 @@ A **Record** is a **row** that **holds data** on an **individual observation**.
 ### Primary Key
 **Unique identifiers** are used to **identify records** in a table. They are **unique** and often **numbers**.
 - A **unique identifier** for each **row** ensuring that **no two rows have the same value** for this column.
-- **Example :** An "id" column with unique values for each row.
 <div align="center">
     <img src="Diagrams/Primary-Key.png" width=100%>
 </div>
 
+- **Example :** An "card_num" column with unique values for each row.
 ### Foreign Key
-- A **column in one table** that refers to the **primary key of another table** establishing a relationship between the two.
-- **Example :** A "department_id" in the "employees" table might be a foreign key referring to the "id" in the "departments" table.
+A **column in one table** that refers to the **primary key of another table** establishing a relationship between the two.
+<div align="center">
+    <img src="Diagrams/Foreign-Key.png" width=100%>
+</div>
+
+- **Example :** A "card_num" in the "checkouts" table might be a foreign key referring to the "card_num" in the "patrons" table.
 ### Constraints
 **Constraints** are **rules applied** to **table columns** to enforce data integrity. 
 - **Example :** NOT NULL, UNIQUE, CHECK, etc.
