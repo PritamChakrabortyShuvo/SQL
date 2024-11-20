@@ -26,10 +26,10 @@ A **Field** is a **Column** that holds **one piece** of **information** about **
     <img src="Diagrams/Field.png" width=100%>
 </div>
 
-- **Tables columns** are refered as **Fields**.
-- Each column holds a specific type of data (e.g., integers, strings, dates).
+- **Tables Columns** are refered as **Fields**.
+- Each **column holds a specific type of data** (e.g., integers, strings, dates).
 - Each column has a **name** & a **data type** (e.g., INT, VARCHAR, DATE).
-- Columns are set at database creation.
+- Columns are **set at database creation**.
 - Field names should :
     - Be **Lowercase**.
     - Have **No Spaces**.
