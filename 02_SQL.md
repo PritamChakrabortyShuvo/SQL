@@ -93,7 +93,7 @@ In SQL, data types **define the type of data that can be stored in a column of a
 - **TEXT :** Used for storing large text values.
     **Example :** **`description TEXT`**
 <div align="center">
-    <img src="Diagram" width=30%>
+    <img src="Diagrams/String-Data-Type.png" width=80%>
 </div>
 
 ### Date and Time Types
