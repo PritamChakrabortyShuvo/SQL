@@ -73,13 +73,14 @@ In SQL, data types **define the type of data that can be stored in a column of a
 ### Numeric Types
 - **INT :** Used to **store integers** (whole numbers).
     - **Example :** **`age INT`**
+<div align="center">
+    <img src="Diagrams/Integer-Data-Type.png" width=80%>
+</div>
+
 - **DECIMAL** or **NUMERIC :** Used to **store exact numeric values** with a **specified precision** and **scale**.
     - **Example :** **`price DECIMAL(10, 2)`** (10 total digits, 2 digits after the decimal point).
 - **FLOAT / REAL :** Used for **approximate numeric values** typically with **floating-point precision**.
     - **Example :** **`height FLOAT`**
-<div align="center">
-    <img src="Diagram" width=30%>
-</div>
 
 ### Character/String Types
 - **CHAR(n) :** Fixed-length character string. If the data is shorter than n, it will be padded with spaces.
@@ -101,9 +102,6 @@ In SQL, data types **define the type of data that can be stored in a column of a
     - **Example :** **`created_at DATETIME`**
 - **TIMESTAMP :** Similar to DATETIME but typically used for tracking changes and storing the time of an event in a database.
     - **Example :** **`last_updated TIMESTAMP`**
-<div align="center">
-    <img src="Diagram" width=30%>
-</div>
 
 ### Boolean Type
 - **BOOLEAN :** Stores TRUE or FALSE values.
