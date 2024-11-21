@@ -81,6 +81,9 @@ In SQL, data types **define the type of data that can be stored in a column of a
     - **Example :** **`price DECIMAL(10, 2)`** (10 total digits, 2 digits after the decimal point).
 - **FLOAT / REAL :** Used for **approximate numeric values** typically with **floating-point precision**.
     - **Example :** **`height FLOAT`**
+<div align="center">
+    <img src="Diagrams/Float-Data-Type.png" width=80%>
+</div>
 
 ### Character/String Types
 - **CHAR(n) :** Fixed-length character string. If the data is shorter than n, it will be padded with spaces.
