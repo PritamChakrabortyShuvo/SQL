@@ -120,7 +120,7 @@ In SQL, data types **define the type of data that can be stored in a column of a
 ## Scema
 A schema is a logical container or blueprint that defines the structure of a database. It organizes database objects like tables, views, indexes & relationships in a way that makes it easier to manage and understand the data.
 <div align="center">
-    <img src="Diagram" width=30%>
+    <img src="Diagrams/Scemas.png" width=70%>
 </div>
 
 ## Storage
