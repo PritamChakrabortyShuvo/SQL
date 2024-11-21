@@ -135,5 +135,5 @@ The **`SELECT`** **statement** is used to **retrieve data from a database**. It'
 2. **Table Alias :** **Assigns a temporary name to a table**, often used to make **joins** and **queries** more concise. A table **alias assigns a temporary name** to a table. This is particularly helpful when joining multiple tables, as it makes the query easier to read and write.
 ### View in SQL
 A **view is a virtual table** in a **database that is based on the result of a SQL query**. It doesn't **store data itself but rather stores the SQL query** used to **retrieve data from one or more tables**. Views are often used to **simplify complex queries or to provide an abstraction layer for security purposes**.
-For More visir [**SQL Queries**](https://github.com/PritamChakrabortyShuvo/SQL/blob/main/00_SQL-Queries.md)
+For More visit [**SQL Queries**](https://github.com/PritamChakrabortyShuvo/SQL/blob/main/00_SQL-Queries.md)
 
