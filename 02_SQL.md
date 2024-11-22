@@ -128,6 +128,7 @@ A schema is a logical container or blueprint that defines the structure of a dat
 <div align="center">
     <img src="Diagrams/Storage.png" width=60%>
 </div>
+
 ## SQL Queries
 **SQL Queries** are **commands** used to **interact with a database**. They allow us to **retrieve, insert, update** or **delete data** from a **database**. 
 ### SELECT 
